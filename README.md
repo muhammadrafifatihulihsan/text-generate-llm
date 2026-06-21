@@ -1,1 +1,1 @@
-# ScopeTextGeneration
+# text-generate-llm
